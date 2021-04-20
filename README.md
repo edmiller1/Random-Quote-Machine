@@ -1,6 +1,6 @@
 # Random Quote Machine
 
-![alt text](https://github.com/edmiller1/wave-react-player/blob/main/screenshot.png?raw=true)
+![alt text](https://github.com/edmiller1/random-quote-machine/blob/main/screenshot.png?raw=true)
 
 # Built with:
   * [React](https://reactjs.org/)
