@@ -18,11 +18,10 @@ function App() {
     "#73A857",
   ];
   const [quote, setQuote] = useState(null);
-  let [color, setColor] = useState(
-    colorList[Math.floor(Math.random() * colorList.length)]
-  );
+  let [color, setColor] = useState(null);
 
   const getQuote = async () => {
+    setColor(colorList[Math.floor(Math.random() * colorList.length)]);
     const response = await fetch(
       "https://goquotes-api.herokuapp.com/api/v1/random?count=1"
     );
