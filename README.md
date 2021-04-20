@@ -1,3 +1,13 @@
+# Random Quote Machine
+
+![alt text](https://github.com/edmiller1/Random-Quote-Machine/blob/master/screenshot.png?raw=true)
+
+# Built with:
+  * [React](https://reactjs.org/)
+  * [Tailwind CSS](https://tailwindcss.com/)
+  * [Go Quotes API](https://goquotes.docs.apiary.io)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
